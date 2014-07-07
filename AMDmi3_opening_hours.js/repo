@@ -1,0 +1,43 @@
+Repo
+  { repoSshUrl = "git@github.com:AMDmi3/opening_hours.js.git"
+  , repoDescription = Just
+                        "Library to parse and process opening_hours tag from OpenStreetMap data"
+  , repoCreatedAt = GithubDate
+                      { fromGithubDate = 2012-12-1807:39:17 UTC
+                      }
+  , repoHtmlUrl = "https://github.com/AMDmi3/opening_hours.js"
+  , repoSvnUrl = "https://github.com/AMDmi3/opening_hours.js"
+  , repoForks = 11
+  , repoHomepage = Just ""
+  , repoFork = False
+  , repoGitUrl = "git://github.com/AMDmi3/opening_hours.js.git"
+  , repoPrivate = False
+  , repoCloneUrl = "https://github.com/AMDmi3/opening_hours.js.git"
+  , repoSize = 2236
+  , repoUpdatedAt = GithubDate
+                      { fromGithubDate = 2014-05-3012:40:34 UTC
+                      }
+  , repoWatchers = 13
+  , repoOwner = GithubUser
+                  { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/474217?"
+                  , githubOwnerLogin = "AMDmi3"
+                  , githubOwnerUrl = "https://api.github.com/users/AMDmi3"
+                  , githubOwnerId = 474217
+                  , githubOwnerGravatarId = Just "e8fe3a70bca94ddb192b1b45b000e3fd"
+                  }
+  , repoName = "opening_hours.js"
+  , repoLanguage = Just "JavaScript"
+  , repoMasterBranch = Nothing
+  , repoPushedAt = Just
+                     GithubDate
+                       { fromGithubDate = 2014-05-3012:40:33 UTC
+                       }
+  , repoId = 7219391
+  , repoUrl = "https://api.github.com/repos/AMDmi3/opening_hours.js"
+  , repoOpenIssues = 9
+  , repoHasWiki = Just True
+  , repoHasIssues = Just True
+  , repoHasDownloads = Just True
+  , repoParent = Nothing
+  , repoSource = Nothing
+  }

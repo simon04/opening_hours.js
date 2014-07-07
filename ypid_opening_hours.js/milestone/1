@@ -1,0 +1,23 @@
+Milestone
+  { milestoneCreator = GithubUser
+                         { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/1301158?"
+                         , githubOwnerLogin = "ypid"
+                         , githubOwnerUrl = "https://api.github.com/users/ypid"
+                         , githubOwnerId = 1301158
+                         , githubOwnerGravatarId = Just "b0829ba878989db13885728a5ae8f2bd"
+                         }
+  , milestoneDueOn = Just
+                       GithubDate
+                         { fromGithubDate = 2015-01-1508:00:00 UTC
+                         }
+  , milestoneOpenIssues = 2
+  , milestoneNumber = 1
+  , milestoneClosedIssues = 0
+  , milestoneDescription = "Will probably take a while. Does include all problems, also minor ones."
+  , milestoneTitle = "All problems solved."
+  , milestoneUrl = "https://api.github.com/repos/ypid/opening_hours.js/milestones/1"
+  , milestoneCreatedAt = GithubDate
+                           { fromGithubDate = 2014-01-1311:28:20 UTC
+                           }
+  , milestoneState = "open"
+  }

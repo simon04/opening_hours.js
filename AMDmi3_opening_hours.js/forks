@@ -1,0 +1,131 @@
+[ Repo
+    { repoSshUrl = "git@github.com:ErshKUS/opening_hours.js.git"
+    , repoDescription = Just
+                          "Library to parse and process opening_hours tag from OpenStreetMap data"
+    , repoCreatedAt = GithubDate
+                        { fromGithubDate = 2014-05-3010:05:32 UTC
+                        }
+    , repoHtmlUrl = "https://github.com/ErshKUS/opening_hours.js"
+    , repoSvnUrl = "https://github.com/ErshKUS/opening_hours.js"
+    , repoForks = 0
+    , repoHomepage = Just ""
+    , repoFork = True
+    , repoGitUrl = "git://github.com/ErshKUS/opening_hours.js.git"
+    , repoPrivate = False
+    , repoCloneUrl = "https://github.com/ErshKUS/opening_hours.js.git"
+    , repoSize = 232
+    , repoUpdatedAt = GithubDate
+                        { fromGithubDate = 2014-05-3012:40:33 UTC
+                        }
+    , repoWatchers = 0
+    , repoOwner = GithubUser
+                    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/873670?"
+                    , githubOwnerLogin = "ErshKUS"
+                    , githubOwnerUrl = "https://api.github.com/users/ErshKUS"
+                    , githubOwnerId = 873670
+                    , githubOwnerGravatarId = Just "b3e934fe639d9dc9546a0227173be2af"
+                    }
+    , repoName = "opening_hours.js"
+    , repoLanguage = Just "JavaScript"
+    , repoMasterBranch = Nothing
+    , repoPushedAt = Just
+                       GithubDate
+                         { fromGithubDate = 2014-05-3010:10:23 UTC
+                         }
+    , repoId = 20325372
+    , repoUrl = "https://api.github.com/repos/ErshKUS/opening_hours.js"
+    , repoOpenIssues = 0
+    , repoHasWiki = Just True
+    , repoHasIssues = Just False
+    , repoHasDownloads = Just True
+    , repoParent = Nothing
+    , repoSource = Nothing
+    }
+, Repo
+    { repoSshUrl = "git@github.com:nyampire/opening_hours.js.git"
+    , repoDescription = Just
+                          "Library to parse and process opening_hours tag from OpenStreetMap data"
+    , repoCreatedAt = GithubDate
+                        { fromGithubDate = 2013-08-1507:43:50 UTC
+                        }
+    , repoHtmlUrl = "https://github.com/nyampire/opening_hours.js"
+    , repoSvnUrl = "https://github.com/nyampire/opening_hours.js"
+    , repoForks = 0
+    , repoHomepage = Just ""
+    , repoFork = True
+    , repoGitUrl = "git://github.com/nyampire/opening_hours.js.git"
+    , repoPrivate = False
+    , repoCloneUrl = "https://github.com/nyampire/opening_hours.js.git"
+    , repoSize = 159
+    , repoUpdatedAt = GithubDate
+                        { fromGithubDate = 2014-05-2211:49:20 UTC
+                        }
+    , repoWatchers = 0
+    , repoOwner = GithubUser
+                    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/428218?"
+                    , githubOwnerLogin = "nyampire"
+                    , githubOwnerUrl = "https://api.github.com/users/nyampire"
+                    , githubOwnerId = 428218
+                    , githubOwnerGravatarId = Just "c6a14c5446474588d8a9120e08b9880a"
+                    }
+    , repoName = "opening_hours.js"
+    , repoLanguage = Just "JavaScript"
+    , repoMasterBranch = Nothing
+    , repoPushedAt = Just
+                       GithubDate
+                         { fromGithubDate = 2013-01-1120:32:34 UTC
+                         }
+    , repoId = 12129201
+    , repoUrl = "https://api.github.com/repos/nyampire/opening_hours.js"
+    , repoOpenIssues = 0
+    , repoHasWiki = Just True
+    , repoHasIssues = Just False
+    , repoHasDownloads = Just True
+    , repoParent = Nothing
+    , repoSource = Nothing
+    }
+, Repo
+    { repoSshUrl = "git@github.com:ypid/opening_hours.js.git"
+    , repoDescription = Just
+                          "Library to parse and process opening_hours tag from OpenStreetMap data."
+    , repoCreatedAt = GithubDate
+                        { fromGithubDate = 2013-08-0918:40:19 UTC
+                        }
+    , repoHtmlUrl = "https://github.com/ypid/opening_hours.js"
+    , repoSvnUrl = "https://github.com/ypid/opening_hours.js"
+    , repoForks = 8
+    , repoHomepage = Just
+                       "http://openingh.openstreetmap.de/evaluation_tool/"
+    , repoFork = True
+    , repoGitUrl = "git://github.com/ypid/opening_hours.js.git"
+    , repoPrivate = False
+    , repoCloneUrl = "https://github.com/ypid/opening_hours.js.git"
+    , repoSize = 4621
+    , repoUpdatedAt = GithubDate
+                        { fromGithubDate = 2014-06-2819:51:01 UTC
+                        }
+    , repoWatchers = 11
+    , repoOwner = GithubUser
+                    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/1301158?"
+                    , githubOwnerLogin = "ypid"
+                    , githubOwnerUrl = "https://api.github.com/users/ypid"
+                    , githubOwnerId = 1301158
+                    , githubOwnerGravatarId = Just "b0829ba878989db13885728a5ae8f2bd"
+                    }
+    , repoName = "opening_hours.js"
+    , repoLanguage = Just "JavaScript"
+    , repoMasterBranch = Nothing
+    , repoPushedAt = Just
+                       GithubDate
+                         { fromGithubDate = 2014-06-2922:22:42 UTC
+                         }
+    , repoId = 12008088
+    , repoUrl = "https://api.github.com/repos/ypid/opening_hours.js"
+    , repoOpenIssues = 10
+    , repoHasWiki = Just True
+    , repoHasIssues = Just True
+    , repoHasDownloads = Just True
+    , repoParent = Nothing
+    , repoSource = Nothing
+    }
+]

@@ -1,0 +1,61 @@
+Repo
+  { repoSshUrl = "git@github.com:jgpacker/opening_hours.js.git"
+  , repoDescription = Just
+                        "Library to parse and process opening_hours tag from OpenStreetMap data"
+  , repoCreatedAt = GithubDate
+                      { fromGithubDate = 2014-03-0120:08:10 UTC
+                      }
+  , repoHtmlUrl = "https://github.com/jgpacker/opening_hours.js"
+  , repoSvnUrl = "https://github.com/jgpacker/opening_hours.js"
+  , repoForks = 0
+  , repoHomepage = Just ""
+  , repoFork = True
+  , repoGitUrl = "git://github.com/jgpacker/opening_hours.js.git"
+  , repoPrivate = False
+  , repoCloneUrl = "https://github.com/jgpacker/opening_hours.js.git"
+  , repoSize = 899
+  , repoUpdatedAt = GithubDate
+                      { fromGithubDate = 2014-03-0211:15:12 UTC
+                      }
+  , repoWatchers = 0
+  , repoOwner = GithubUser
+                  { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/1036340?"
+                  , githubOwnerLogin = "jgpacker"
+                  , githubOwnerUrl = "https://api.github.com/users/jgpacker"
+                  , githubOwnerId = 1036340
+                  , githubOwnerGravatarId = Just "704f28429974bab1704a7535eb8a5734"
+                  }
+  , repoName = "opening_hours.js"
+  , repoLanguage = Just "JavaScript"
+  , repoMasterBranch = Nothing
+  , repoPushedAt = Just
+                     GithubDate
+                       { fromGithubDate = 2014-03-0201:27:44 UTC
+                       }
+  , repoId = 17323184
+  , repoUrl = "https://api.github.com/repos/jgpacker/opening_hours.js"
+  , repoOpenIssues = 0
+  , repoHasWiki = Just True
+  , repoHasIssues = Just False
+  , repoHasDownloads = Just True
+  , repoParent = Just (
+                   RepoRef
+                     GithubUser
+                       { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/1301158?"
+                       , githubOwnerLogin = "ypid"
+                       , githubOwnerUrl = "https://api.github.com/users/ypid"
+                       , githubOwnerId = 1301158
+                       , githubOwnerGravatarId = Just "b0829ba878989db13885728a5ae8f2bd"
+                       }
+                     "opening_hours.js" )
+  , repoSource = Just (
+                   RepoRef
+                     GithubUser
+                       { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/474217?"
+                       , githubOwnerLogin = "AMDmi3"
+                       , githubOwnerUrl = "https://api.github.com/users/AMDmi3"
+                       , githubOwnerId = 474217
+                       , githubOwnerGravatarId = Just "e8fe3a70bca94ddb192b1b45b000e3fd"
+                       }
+                     "opening_hours.js" )
+  }

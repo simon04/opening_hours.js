@@ -1,0 +1,44 @@
+DetailedPullRequest
+  { detailedPullRequestClosedAt = Nothing
+  , detailedPullRequestCreatedAt = GithubDate
+                                     { fromGithubDate = 2013-08-2620:21:07 UTC
+                                     }
+  , detailedPullRequestUser = GithubUser
+                                { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/1301158?"
+                                , githubOwnerLogin = "ypid"
+                                , githubOwnerUrl = "https://api.github.com/users/ypid"
+                                , githubOwnerId = 1301158
+                                , githubOwnerGravatarId = Just "b0829ba878989db13885728a5ae8f2bd"
+                                }
+  , detailedPullRequestPatchUrl = "https://github.com/AMDmi3/opening_hours.js/pull/14.patch"
+  , detailedPullRequestState = "open"
+  , detailedPullRequestNumber = 14
+  , detailedPullRequestHtmlUrl = "https://github.com/AMDmi3/opening_hours.js/pull/14"
+  , detailedPullRequestUpdatedAt = GithubDate
+                                     { fromGithubDate = 2014-06-2922:22:43 UTC
+                                     }
+  , detailedPullRequestBody = "Done: comments, unknown\r\n\r\nWork in progress: sunrise/sunset #8 , open end #9 "
+  , detailedPullRequestIssueUrl = "https://api.github.com/repos/AMDmi3/opening_hours.js/issues/14"
+  , detailedPullRequestDiffUrl = "https://github.com/AMDmi3/opening_hours.js/pull/14.diff"
+  , detailedPullRequestUrl = "https://api.github.com/repos/AMDmi3/opening_hours.js/pulls/14"
+  , detailedPullRequestLinks = PullRequestLinks
+                                 { pullRequestLinksReviewComments = "https://api.github.com/repos/AMDmi3/opening_hours.js/pulls/14/comments"
+                                 , pullRequestLinksComments = "https://api.github.com/repos/AMDmi3/opening_hours.js/issues/14/comments"
+                                 , pullRequestLinksHtml = "https://github.com/AMDmi3/opening_hours.js/pull/14"
+                                 , pullRequestLinksSelf = "https://api.github.com/repos/AMDmi3/opening_hours.js/pulls/14"
+                                 }
+  , detailedPullRequestMergedAt = Nothing
+  , detailedPullRequestTitle = "Added some features."
+  , detailedPullRequestId = 7868460
+  , detailedPullRequestMergedBy = Nothing
+  , detailedPullRequestChangedFiles = 25
+  , detailedPullRequestHead = PullRequestCommit
+  , detailedPullRequestComments = 6
+  , detailedPullRequestDeletions = 633
+  , detailedPullRequestAdditions = 11299
+  , detailedPullRequestReviewComments = 0
+  , detailedPullRequestBase = PullRequestCommit
+  , detailedPullRequestCommits = 396
+  , detailedPullRequestMerged = False
+  , detailedPullRequestMergeable = False
+  }

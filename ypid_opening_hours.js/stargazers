@@ -1,0 +1,78 @@
+[ GithubUser
+    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/1055967?"
+    , githubOwnerLogin = "buma"
+    , githubOwnerUrl = "https://api.github.com/users/buma"
+    , githubOwnerId = 1055967
+    , githubOwnerGravatarId = Just "f5ec421664018adee2dfc98f3b4655da"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/1227612?"
+    , githubOwnerLogin = "Cactusbone"
+    , githubOwnerUrl = "https://api.github.com/users/Cactusbone"
+    , githubOwnerId = 1227612
+    , githubOwnerGravatarId = Just "d1c5d5f3f244fe58e08011d334d4fd7a"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/1301158?"
+    , githubOwnerLogin = "ypid"
+    , githubOwnerUrl = "https://api.github.com/users/ypid"
+    , githubOwnerId = 1301158
+    , githubOwnerGravatarId = Just "b0829ba878989db13885728a5ae8f2bd"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/1304918?"
+    , githubOwnerLogin = "sabas"
+    , githubOwnerUrl = "https://api.github.com/users/sabas"
+    , githubOwnerId = 1304918
+    , githubOwnerGravatarId = Just "ef4fed23771745a437c021e704bd0ad3"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/1927298?"
+    , githubOwnerLogin = "tyrasd"
+    , githubOwnerUrl = "https://api.github.com/users/tyrasd"
+    , githubOwnerId = 1927298
+    , githubOwnerGravatarId = Just "eca34689e074411e0daca0d994f532b3"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/2818194?"
+    , githubOwnerLogin = "NonnEmilia"
+    , githubOwnerUrl = "https://api.github.com/users/NonnEmilia"
+    , githubOwnerId = 2818194
+    , githubOwnerGravatarId = Just "d40d3d5654dbf4570912d1a10b0ae71d"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/3056292?"
+    , githubOwnerLogin = "schlomm"
+    , githubOwnerUrl = "https://api.github.com/users/schlomm"
+    , githubOwnerId = 3056292
+    , githubOwnerGravatarId = Just "21703327353f9619997e4f4507aec2bd"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/596867?"
+    , githubOwnerLogin = "don-vip"
+    , githubOwnerUrl = "https://api.github.com/users/don-vip"
+    , githubOwnerId = 596867
+    , githubOwnerGravatarId = Just "0daf2db5d576b3fcfbb4f3c0e4c54fa6"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/782446?"
+    , githubOwnerLogin = "simon04"
+    , githubOwnerUrl = "https://api.github.com/users/simon04"
+    , githubOwnerId = 782446
+    , githubOwnerGravatarId = Just "ef708e3307f37beee8b4f1e937c993c2"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/8921?"
+    , githubOwnerLogin = "sesam"
+    , githubOwnerUrl = "https://api.github.com/users/sesam"
+    , githubOwnerId = 8921
+    , githubOwnerGravatarId = Just "1566633c958fd7cd2925e25390e33ff3"
+    }
+, GithubUser
+    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/899988?"
+    , githubOwnerLogin = "mkoniecz"
+    , githubOwnerUrl = "https://api.github.com/users/mkoniecz"
+    , githubOwnerId = 899988
+    , githubOwnerGravatarId = Just "8dd2f137287a3f9edd63264a24a52d2a"
+    }
+]

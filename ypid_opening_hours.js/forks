@@ -1,0 +1,345 @@
+[ Repo
+    { repoSshUrl = "git@github.com:Cactusbone/opening_hours.js.git"
+    , repoDescription = Just
+                          "Library to parse and process opening_hours tag from OpenStreetMap data"
+    , repoCreatedAt = GithubDate
+                        { fromGithubDate = 2013-11-0413:16:38 UTC
+                        }
+    , repoHtmlUrl = "https://github.com/Cactusbone/opening_hours.js"
+    , repoSvnUrl = "https://github.com/Cactusbone/opening_hours.js"
+    , repoForks = 0
+    , repoHomepage = Just ""
+    , repoFork = True
+    , repoGitUrl = "git://github.com/Cactusbone/opening_hours.js.git"
+    , repoPrivate = False
+    , repoCloneUrl = "https://github.com/Cactusbone/opening_hours.js.git"
+    , repoSize = 676
+    , repoUpdatedAt = GithubDate
+                        { fromGithubDate = 2013-11-0711:45:05 UTC
+                        }
+    , repoWatchers = 0
+    , repoOwner = GithubUser
+                    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/1227612?"
+                    , githubOwnerLogin = "Cactusbone"
+                    , githubOwnerUrl = "https://api.github.com/users/Cactusbone"
+                    , githubOwnerId = 1227612
+                    , githubOwnerGravatarId = Just "d1c5d5f3f244fe58e08011d334d4fd7a"
+                    }
+    , repoName = "opening_hours.js"
+    , repoLanguage = Just "JavaScript"
+    , repoMasterBranch = Nothing
+    , repoPushedAt = Just
+                       GithubDate
+                         { fromGithubDate = 2013-11-0413:17:28 UTC
+                         }
+    , repoId = 14110070
+    , repoUrl = "https://api.github.com/repos/Cactusbone/opening_hours.js"
+    , repoOpenIssues = 0
+    , repoHasWiki = Just True
+    , repoHasIssues = Just False
+    , repoHasDownloads = Just True
+    , repoParent = Nothing
+    , repoSource = Nothing
+    }
+, Repo
+    { repoSshUrl = "git@github.com:NonnEmilia/opening_hours.js.git"
+    , repoDescription = Just
+                          "Library to parse and process opening_hours tag from OpenStreetMap data"
+    , repoCreatedAt = GithubDate
+                        { fromGithubDate = 2014-03-0114:46:43 UTC
+                        }
+    , repoHtmlUrl = "https://github.com/NonnEmilia/opening_hours.js"
+    , repoSvnUrl = "https://github.com/NonnEmilia/opening_hours.js"
+    , repoForks = 0
+    , repoHomepage = Just ""
+    , repoFork = True
+    , repoGitUrl = "git://github.com/NonnEmilia/opening_hours.js.git"
+    , repoPrivate = False
+    , repoCloneUrl = "https://github.com/NonnEmilia/opening_hours.js.git"
+    , repoSize = 1012
+    , repoUpdatedAt = GithubDate
+                        { fromGithubDate = 2014-03-0618:41:24 UTC
+                        }
+    , repoWatchers = 0
+    , repoOwner = GithubUser
+                    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/2818194?"
+                    , githubOwnerLogin = "NonnEmilia"
+                    , githubOwnerUrl = "https://api.github.com/users/NonnEmilia"
+                    , githubOwnerId = 2818194
+                    , githubOwnerGravatarId = Just "d40d3d5654dbf4570912d1a10b0ae71d"
+                    }
+    , repoName = "opening_hours.js"
+    , repoLanguage = Just "JavaScript"
+    , repoMasterBranch = Nothing
+    , repoPushedAt = Just
+                       GithubDate
+                         { fromGithubDate = 2014-03-0411:00:44 UTC
+                         }
+    , repoId = 17316843
+    , repoUrl = "https://api.github.com/repos/NonnEmilia/opening_hours.js"
+    , repoOpenIssues = 0
+    , repoHasWiki = Just True
+    , repoHasIssues = Just False
+    , repoHasDownloads = Just True
+    , repoParent = Nothing
+    , repoSource = Nothing
+    }
+, Repo
+    { repoSshUrl = "git@github.com:blorger/opening_hours.js.git"
+    , repoDescription = Just
+                          "Library to parse and process opening_hours tag from OpenStreetMap data"
+    , repoCreatedAt = GithubDate
+                        { fromGithubDate = 2014-04-2113:23:01 UTC
+                        }
+    , repoHtmlUrl = "https://github.com/blorger/opening_hours.js"
+    , repoSvnUrl = "https://github.com/blorger/opening_hours.js"
+    , repoForks = 0
+    , repoHomepage = Just ""
+    , repoFork = True
+    , repoGitUrl = "git://github.com/blorger/opening_hours.js.git"
+    , repoPrivate = False
+    , repoCloneUrl = "https://github.com/blorger/opening_hours.js.git"
+    , repoSize = 999
+    , repoUpdatedAt = GithubDate
+                        { fromGithubDate = 2014-04-2310:19:17 UTC
+                        }
+    , repoWatchers = 0
+    , repoOwner = GithubUser
+                    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/7358565?"
+                    , githubOwnerLogin = "blorger"
+                    , githubOwnerUrl = "https://api.github.com/users/blorger"
+                    , githubOwnerId = 7358565
+                    , githubOwnerGravatarId = Just "33645b47e237b99b00fa9ceb46721103"
+                    }
+    , repoName = "opening_hours.js"
+    , repoLanguage = Just "JavaScript"
+    , repoMasterBranch = Nothing
+    , repoPushedAt = Just
+                       GithubDate
+                         { fromGithubDate = 2014-04-2113:27:10 UTC
+                         }
+    , repoId = 18993132
+    , repoUrl = "https://api.github.com/repos/blorger/opening_hours.js"
+    , repoOpenIssues = 0
+    , repoHasWiki = Just True
+    , repoHasIssues = Just False
+    , repoHasDownloads = Just True
+    , repoParent = Nothing
+    , repoSource = Nothing
+    }
+, Repo
+    { repoSshUrl = "git@github.com:burrbull/opening_hours.js.git"
+    , repoDescription = Just
+                          "Library to parse and process opening_hours tag from OpenStreetMap data"
+    , repoCreatedAt = GithubDate
+                        { fromGithubDate = 2014-04-0610:52:46 UTC
+                        }
+    , repoHtmlUrl = "https://github.com/burrbull/opening_hours.js"
+    , repoSvnUrl = "https://github.com/burrbull/opening_hours.js"
+    , repoForks = 0
+    , repoHomepage = Just ""
+    , repoFork = True
+    , repoGitUrl = "git://github.com/burrbull/opening_hours.js.git"
+    , repoPrivate = False
+    , repoCloneUrl = "https://github.com/burrbull/opening_hours.js.git"
+    , repoSize = 1185
+    , repoUpdatedAt = GithubDate
+                        { fromGithubDate = 2014-04-0810:34:17 UTC
+                        }
+    , repoWatchers = 0
+    , repoOwner = GithubUser
+                    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/3072754?"
+                    , githubOwnerLogin = "burrbull"
+                    , githubOwnerUrl = "https://api.github.com/users/burrbull"
+                    , githubOwnerId = 3072754
+                    , githubOwnerGravatarId = Just "461bf85a8d1f163338c1d410588ac39e"
+                    }
+    , repoName = "opening_hours.js"
+    , repoLanguage = Just "JavaScript"
+    , repoMasterBranch = Nothing
+    , repoPushedAt = Just
+                       GithubDate
+                         { fromGithubDate = 2014-04-0810:10:17 UTC
+                         }
+    , repoId = 18487524
+    , repoUrl = "https://api.github.com/repos/burrbull/opening_hours.js"
+    , repoOpenIssues = 0
+    , repoHasWiki = Just True
+    , repoHasIssues = Just False
+    , repoHasDownloads = Just True
+    , repoParent = Nothing
+    , repoSource = Nothing
+    }
+, Repo
+    { repoSshUrl = "git@github.com:don-vip/opening_hours.js.git"
+    , repoDescription = Just
+                          "Library to parse and process opening_hours tag from OpenStreetMap data"
+    , repoCreatedAt = GithubDate
+                        { fromGithubDate = 2013-12-0800:03:00 UTC
+                        }
+    , repoHtmlUrl = "https://github.com/don-vip/opening_hours.js"
+    , repoSvnUrl = "https://github.com/don-vip/opening_hours.js"
+    , repoForks = 0
+    , repoHomepage = Just ""
+    , repoFork = True
+    , repoGitUrl = "git://github.com/don-vip/opening_hours.js.git"
+    , repoPrivate = False
+    , repoCloneUrl = "https://github.com/don-vip/opening_hours.js.git"
+    , repoSize = 618
+    , repoUpdatedAt = GithubDate
+                        { fromGithubDate = 2013-12-1707:14:16 UTC
+                        }
+    , repoWatchers = 0
+    , repoOwner = GithubUser
+                    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/596867?"
+                    , githubOwnerLogin = "don-vip"
+                    , githubOwnerUrl = "https://api.github.com/users/don-vip"
+                    , githubOwnerId = 596867
+                    , githubOwnerGravatarId = Just "0daf2db5d576b3fcfbb4f3c0e4c54fa6"
+                    }
+    , repoName = "opening_hours.js"
+    , repoLanguage = Just "JavaScript"
+    , repoMasterBranch = Nothing
+    , repoPushedAt = Just
+                       GithubDate
+                         { fromGithubDate = 2013-12-1623:10:17 UTC
+                         }
+    , repoId = 15015312
+    , repoUrl = "https://api.github.com/repos/don-vip/opening_hours.js"
+    , repoOpenIssues = 0
+    , repoHasWiki = Just True
+    , repoHasIssues = Just False
+    , repoHasDownloads = Just True
+    , repoParent = Nothing
+    , repoSource = Nothing
+    }
+, Repo
+    { repoSshUrl = "git@github.com:jgpacker/opening_hours.js.git"
+    , repoDescription = Just
+                          "Library to parse and process opening_hours tag from OpenStreetMap data"
+    , repoCreatedAt = GithubDate
+                        { fromGithubDate = 2014-03-0120:08:10 UTC
+                        }
+    , repoHtmlUrl = "https://github.com/jgpacker/opening_hours.js"
+    , repoSvnUrl = "https://github.com/jgpacker/opening_hours.js"
+    , repoForks = 0
+    , repoHomepage = Just ""
+    , repoFork = True
+    , repoGitUrl = "git://github.com/jgpacker/opening_hours.js.git"
+    , repoPrivate = False
+    , repoCloneUrl = "https://github.com/jgpacker/opening_hours.js.git"
+    , repoSize = 899
+    , repoUpdatedAt = GithubDate
+                        { fromGithubDate = 2014-03-0211:15:12 UTC
+                        }
+    , repoWatchers = 0
+    , repoOwner = GithubUser
+                    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/1036340?"
+                    , githubOwnerLogin = "jgpacker"
+                    , githubOwnerUrl = "https://api.github.com/users/jgpacker"
+                    , githubOwnerId = 1036340
+                    , githubOwnerGravatarId = Just "704f28429974bab1704a7535eb8a5734"
+                    }
+    , repoName = "opening_hours.js"
+    , repoLanguage = Just "JavaScript"
+    , repoMasterBranch = Nothing
+    , repoPushedAt = Just
+                       GithubDate
+                         { fromGithubDate = 2014-03-0201:27:44 UTC
+                         }
+    , repoId = 17323184
+    , repoUrl = "https://api.github.com/repos/jgpacker/opening_hours.js"
+    , repoOpenIssues = 0
+    , repoHasWiki = Just True
+    , repoHasIssues = Just False
+    , repoHasDownloads = Just True
+    , repoParent = Nothing
+    , repoSource = Nothing
+    }
+, Repo
+    { repoSshUrl = "git@github.com:openfirmware/opening_hours.js.git"
+    , repoDescription = Just
+                          "Library to parse and process opening_hours tag from OpenStreetMap data"
+    , repoCreatedAt = GithubDate
+                        { fromGithubDate = 2014-03-2801:18:39 UTC
+                        }
+    , repoHtmlUrl = "https://github.com/openfirmware/opening_hours.js"
+    , repoSvnUrl = "https://github.com/openfirmware/opening_hours.js"
+    , repoForks = 0
+    , repoHomepage = Just ""
+    , repoFork = True
+    , repoGitUrl = "git://github.com/openfirmware/opening_hours.js.git"
+    , repoPrivate = False
+    , repoCloneUrl = "https://github.com/openfirmware/opening_hours.js.git"
+    , repoSize = 1026
+    , repoUpdatedAt = GithubDate
+                        { fromGithubDate = 2014-04-0615:53:32 UTC
+                        }
+    , repoWatchers = 0
+    , repoOwner = GithubUser
+                    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/68210?"
+                    , githubOwnerLogin = "openfirmware"
+                    , githubOwnerUrl = "https://api.github.com/users/openfirmware"
+                    , githubOwnerId = 68210
+                    , githubOwnerGravatarId = Just "2e9d162353208c982aa5a650cd981245"
+                    }
+    , repoName = "opening_hours.js"
+    , repoLanguage = Just "JavaScript"
+    , repoMasterBranch = Nothing
+    , repoPushedAt = Just
+                       GithubDate
+                         { fromGithubDate = 2014-04-0404:30:14 UTC
+                         }
+    , repoId = 18197250
+    , repoUrl = "https://api.github.com/repos/openfirmware/opening_hours.js"
+    , repoOpenIssues = 0
+    , repoHasWiki = Just True
+    , repoHasIssues = Just False
+    , repoHasDownloads = Just True
+    , repoParent = Nothing
+    , repoSource = Nothing
+    }
+, Repo
+    { repoSshUrl = "git@github.com:sesam/opening_hours.js.git"
+    , repoDescription = Just
+                          "Library to parse and process opening_hours tag from OpenStreetMap data"
+    , repoCreatedAt = GithubDate
+                        { fromGithubDate = 2014-02-0513:54:37 UTC
+                        }
+    , repoHtmlUrl = "https://github.com/sesam/opening_hours.js"
+    , repoSvnUrl = "https://github.com/sesam/opening_hours.js"
+    , repoForks = 0
+    , repoHomepage = Just ""
+    , repoFork = True
+    , repoGitUrl = "git://github.com/sesam/opening_hours.js.git"
+    , repoPrivate = False
+    , repoCloneUrl = "https://github.com/sesam/opening_hours.js.git"
+    , repoSize = 860
+    , repoUpdatedAt = GithubDate
+                        { fromGithubDate = 2014-02-0518:05:12 UTC
+                        }
+    , repoWatchers = 0
+    , repoOwner = GithubUser
+                    { githubOwnerAvatarUrl = "https://avatars.githubusercontent.com/u/8921?"
+                    , githubOwnerLogin = "sesam"
+                    , githubOwnerUrl = "https://api.github.com/users/sesam"
+                    , githubOwnerId = 8921
+                    , githubOwnerGravatarId = Just "1566633c958fd7cd2925e25390e33ff3"
+                    }
+    , repoName = "opening_hours.js"
+    , repoLanguage = Just "JavaScript"
+    , repoMasterBranch = Nothing
+    , repoPushedAt = Just
+                       GithubDate
+                         { fromGithubDate = 2014-02-0514:12:03 UTC
+                         }
+    , repoId = 16546148
+    , repoUrl = "https://api.github.com/repos/sesam/opening_hours.js"
+    , repoOpenIssues = 0
+    , repoHasWiki = Just True
+    , repoHasIssues = Just False
+    , repoHasDownloads = Just True
+    , repoParent = Nothing
+    , repoSource = Nothing
+    }
+]
