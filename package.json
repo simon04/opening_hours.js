@@ -53,7 +53,6 @@
     "full-icu": "^1.2.0",
     "glob": "^7.1.1",
     "https": "^1.0.0",
-    "i18next-client": "^1.11.1",
     "js-yaml": "^3.8.2",
     "line-reader": "^0.4.0",
     "moment": "^2.10.6",
@@ -66,9 +65,6 @@
     "sprintf-js": "1.1.1",
     "terser": "^4.6.3",
     "timekeeper": "^2.0.0"
-  },
-  "peerDependencies": {
-    "i18next-client": "^1.11.1"
   },
   "engines": {
     "node": ">=8.0.0"

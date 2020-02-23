@@ -117,3 +117,6 @@
 'please use 24 hours time for ko': 'Please use time format in 24 hours notation instead of the legacy 12 hours variant. If the 12 hours variant is used you might have to convert the hours to the 24 hours notation.'
 'please use restriction comment time for ko': 'It looks like you might want to define additional restrictions. If that is the case and they can not be expressed by other syntax elements then you could use a comment together with the `open` keyword. Example: open "female only"'
 'please use ok for typographically correct': 'Please use notation "__ok__" for "__ko__". Although using "__ko__" is typographical correct, it is not defined in the opening_hours syntax. Correct typography should be done on application level …'
+'pretty.off': "closed"
+'pretty.SH': "school holidays"
+'pretty.PH': "public holidays"

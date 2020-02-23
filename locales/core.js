@@ -1,21 +1,36 @@
-import i18n from 'i18next-client';
-export default i18n;
+import de from './de.yaml';
+import en from './en.yaml';
+import fr from './fr.yaml';
+var translations = {
+    de: de,
+    en: en,
+    fr: fr
+};
 
-import opening_hours_resources from './opening_hours_resources.yaml';
+/* Translation function {{{ */
+/* Roughly compatibly to i18next so we can replace everything by i18next include later
+ * sprintf support
+ */
+var locale = 'en';
 
-if (!i18n.isInitialized()) {
-    i18n.init({
-        fallbackLng: 'en',
-        // lngWhitelist: ['en', 'de'],
-        resStore: opening_hours_resources,
-        getAsync: true,
-        useCookie: true,
-        // debug: true,
-    });
-} else {
-    // compat with an app that already initializes i18n
-    for (var lang in opening_hours_resources) {
-        i18n.addResourceBundle(lang, 'opening_hours', opening_hours_resources[lang]['opening_hours'], true);
-
-    }
+export function lng() {
+    return locale;
 }
+
+export function setLng(lng) {
+    locale = lng;
+}
+
+export function t(str, variables) {
+    var text = translations[locale][str];
+    if (typeof text === 'undefined') {
+        text = str;
+    }
+    return text.replace(/__([^_]*)__/g, function (match, c) {
+        return typeof variables[c] !== 'undefined'
+            ? variables[c]
+            : match;
+        }
+    );
+}
+/* }}} */

@@ -1,0 +1,4 @@
+---
+'assuming ok for ko': 'S''il vous plaît utiliser "<ok>" pour "<ko>".'
+'please use ok for ko': 'S''il vous plaît utiliser "__ok__" pour "__ko__".'
+'please use English abbreviation ok for ko': 'S''il vous plaît utiliser l''abréviation "__ok__" pour "__ko__".'
